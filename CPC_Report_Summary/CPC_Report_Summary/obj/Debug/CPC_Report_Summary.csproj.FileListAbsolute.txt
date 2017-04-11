@@ -1,0 +1,7 @@
+G:\Peter_Tan\_____WORK_____\C#_Projects\CPC_Report_Summary\CPC_Report_Summary\bin\Debug\CPC_Report_Summary.exe.config
+G:\Peter_Tan\_____WORK_____\C#_Projects\CPC_Report_Summary\CPC_Report_Summary\obj\Debug\CPC_Report_Summary.csprojResolveAssemblyReference.cache
+G:\Peter_Tan\_____WORK_____\C#_Projects\CPC_Report_Summary\CPC_Report_Summary\bin\Debug\CPC_Report_Summary.exe
+G:\Peter_Tan\_____WORK_____\C#_Projects\CPC_Report_Summary\CPC_Report_Summary\bin\Debug\CPC_Report_Summary.pdb
+G:\Peter_Tan\_____WORK_____\C#_Projects\CPC_Report_Summary\CPC_Report_Summary\obj\Debug\CPC_Report_Summary.csproj.ResolveComReference.cache
+G:\Peter_Tan\_____WORK_____\C#_Projects\CPC_Report_Summary\CPC_Report_Summary\obj\Debug\CPC_Report_Summary.exe
+G:\Peter_Tan\_____WORK_____\C#_Projects\CPC_Report_Summary\CPC_Report_Summary\obj\Debug\CPC_Report_Summary.pdb
