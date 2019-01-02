@@ -1,5 +1,5 @@
-# CPC_Project_Manager [Designed for Forumresearch]
-CPC_Project_Manager
+# CPC_Project_Manager
+CPC_Project_Manager [Designed for Forumresearch]
 <br><br>
 Another implementation of C# interop processes within a C# program, as a means of automating and analyzing excel reports.
 <br><br>
